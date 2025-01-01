@@ -5,9 +5,6 @@ eval "$(starship init zsh)"
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-# Python Poetry
-export PATH="/Users/nabil/.local/bin:$PATH"
-
 # Aliases
 alias ls='eza'
 alias ll='ls -la'
